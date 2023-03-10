@@ -1,4 +1,4 @@
-#REMOTE
+#LOCALY
 
 Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. 
 Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm.
