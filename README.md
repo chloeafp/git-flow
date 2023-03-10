@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # LOCAL
+=======
+# REMOTE
+>>>>>>> 8f59cf31a2a03ccf587305a80cc895132f1c9c47
 
 Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. 
 Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm.
